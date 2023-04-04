@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "https://localhost:8443/editora-livros-api/pessoa";
+const url = "http://localhost:8443/editora-livros-api/pessoa";
 
 class PessoasService {
 

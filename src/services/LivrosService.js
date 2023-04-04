@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://localhost:8443/editora-livros-api/livro";
+const url = "http://localhost:8443/editora-livros-api/livro";
 
 export class LivrosService {
 
